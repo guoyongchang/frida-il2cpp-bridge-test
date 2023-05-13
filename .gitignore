@@ -1,2 +1,6 @@
 /_agent.js
 /node_modules
+
+node_modules.nosync
+.DS_Store
+*.log
